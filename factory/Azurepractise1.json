@@ -1,0 +1,9 @@
+{
+	"name": "Azurepractise1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "47b958a0-8ed8-4c44-9c3e-6516d4e4132e",
+		"tenantId": "65e4e06f-f263-4c1f-becb-90deb8c2d9ff"
+	}
+}
